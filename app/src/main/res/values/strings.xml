@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trending Repositories</string>
+    <string name="trending_repositories">Trending Repositories</string>
+    <string name="search_by_user_name">Search By User Name</string>
+    <string name="repositoryname">RepositoryName :</string>
+    <string name="username">UserName :</string>
+    <string name="rank">Rank :</string>
+</resources>
