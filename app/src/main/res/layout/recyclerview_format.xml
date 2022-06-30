@@ -16,17 +16,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/archivo"
-            android:text="bionic"
-            android:textColor="#050505"
+            android:text="@string/bionic"
+            android:textColor="@color/fade_black"
             android:textSize="15sp"
             android:textStyle="bold" />
         <TextView
             android:id="@+id/desc_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Description"
+            android:text="@string/description"
             android:layout_marginTop="7dp"
-            android:textColor="#41424A"/>
+            android:textColor="@color/dark_grey"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -48,10 +48,10 @@
                 android:layout_width="0dp"
                 android:layout_weight="4"
                 android:layout_height="match_parent"
-                android:text="Language"
+                android:text="@string/language"
                 android:gravity="center_vertical"
                 android:layout_marginStart="6dp"
-                android:textColor="#9194A1"/>
+                android:textColor="@color/fade_grey"/>
 
             <LinearLayout
                 android:layout_width="0dp"
@@ -63,16 +63,17 @@
                 <ImageView
                     android:layout_width="16dp"
                     android:layout_height="16dp"
+                    android:contentDescription="@string/star"
                     android:src="@drawable/star_img"/>
 
                 <TextView
                     android:id="@+id/star_text"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:text="star"
+                    android:text="@string/star"
                     android:layout_marginStart="5dp"
                     android:gravity="center_vertical"
-                    android:textColor="#9194A1"/>
+                    android:textColor="@color/blue_grey"/>
 
             </LinearLayout>
 
@@ -82,7 +83,7 @@
             android:layout_width="match_parent"
             android:layout_height="1dp"
             android:layout_marginTop="20dp"
-            android:background="#E5E6E7"/>
+            android:background="@color/yellow_white"/>
 
     </LinearLayout>
 

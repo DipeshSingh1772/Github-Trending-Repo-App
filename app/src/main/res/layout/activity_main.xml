@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -17,7 +16,7 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:gravity="center|top"
-            android:background="#EFF0F5"
+            android:background="@color/fade_white"
             android:orientation="vertical">
 
             <ProgressBar
@@ -40,9 +39,9 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="No network connection"
+                    android:text="@string/no_network_connection"
                     android:textStyle="bold"
-                    android:textSize="15dp"
+                    android:textSize="15sp"
                     android:layout_marginBottom="10dp"
                     android:textColor="@color/black"/>
 
@@ -52,7 +51,7 @@
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/white"
                     android:textColor="@color/blue"
-                    android:text="TRY AGAIN"/>
+                    android:text="@string/try_again"/>
 
                 <Button
                     android:id="@+id/go_offline_btn"
@@ -60,7 +59,7 @@
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/white"
                     android:textColor="@color/blue"
-                    android:text="GO OFFLINE"/>
+                    android:text="@string/go_offline"/>
 
             </LinearLayout>
 

@@ -8,4 +8,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="fade_white">#EFF0F5</color>
+    <color name="fade_black">#050505</color>
+    <color name="dark_grey">#41424A</color>
+    <color name="fade_grey">#9194A1</color>
+    <color name="blue_grey">#9194A1</color>
+    <color name="yellow_white">#E5E6E7</color>
 </resources>

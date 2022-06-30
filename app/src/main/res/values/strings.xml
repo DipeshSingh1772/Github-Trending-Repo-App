@@ -5,4 +5,11 @@
     <string name="repositoryname">RepositoryName :</string>
     <string name="username">UserName :</string>
     <string name="rank">Rank :</string>
+    <string name="no_network_connection">No network connection</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="go_offline">GO OFFLINE</string>
+    <string name="bionic">bionic</string>
+    <string name="description">Description</string>
+    <string name="language">Language</string>
+    <string name="star">star</string>
 </resources>
