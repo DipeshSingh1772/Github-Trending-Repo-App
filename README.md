@@ -10,7 +10,6 @@ application is developed with MVVM architecture and have both online and offline
   - orientation independent
  
  # Libraries/Tech
-  
   - [kotlin] - written in kotlin
   - [Retrofit] - used for making network calls. it is used because
     - fast
@@ -41,5 +40,4 @@ application is developed with MVVM architecture and have both online and offline
   - Profile: https://www.linkedin.com/in/dipesh-pratap-singh/
 
 # Demo Video
-https://user-images.githubusercontent.com/70167351/169353120-0138085f-9259-4d6b-8896-769ecc72d723.mp4
 
