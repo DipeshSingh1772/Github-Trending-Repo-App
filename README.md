@@ -1,10 +1,45 @@
 # Trending-Github-Repository-App
 
-Android application show daiy trending repositories, using api.
-the application have offline and online support made with android mvvm architecture.
+Trending Repository is an android application show daiy trending repositories using api written in 'Kotlin'.
+application is developed with MVVM architecture and have both online and offline support.
+  
+  - ViewModel
+  - Room Persistance library
+  - Live Data
+  - offline support for devices using room database
+  - orientation independent
+ 
+ # Libraries/Tech
+  
+  - [kotlin] - written in kotlin
+  - [Retrofit] - used for making network calls. it is used because
+    - fast
+    - synchronous and asynchronous support
+    - support converters
+    - low latency
+  - [Room] - offline data storage using ROOM
+  - [Coroutine] - use to work on background thread
+  - [Viewmodel/Repository pattern] - better managment and sepration of code
+  
+
+# Permission
+  permissions required by application 
+  - Internet Access 
 
 
+# API
+  - API - 'https://private-757089-githubtrendingapi.apiary-mock.com/repositories'.
+  - Reference - https://githubtrendingapi.docs.apiary.io/#reference/0/repositories/list-trending-repositories
+  
+# Setup
+  - download zip file from - https://github.com/DipeshSingh1772/Github-Trending-Repo-App
+  - open project in android studio
+  - build/run
+  
+# License
+  - Dipesh Pratap Singh
+  - Profile: https://www.linkedin.com/in/dipesh-pratap-singh/
 
-
-https://user-images.githubusercontent.com/70167351/169353120-0138085f-9259-4d6b-8896-769ecc72d723.mp4
+# Demo Video
+  - https://user-images.githubusercontent.com/70167351/169353120-0138085f-9259-4d6b-8896-769ecc72d723.mp4
 
