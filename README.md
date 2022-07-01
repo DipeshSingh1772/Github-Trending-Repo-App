@@ -32,7 +32,7 @@ application is developed with MVVM architecture and have both online and offline
   - Reference - https://githubtrendingapi.docs.apiary.io/#reference/0/repositories/list-trending-repositories
   
 # Setup
-  - download zip file from - https://github.com/DipeshSingh1772/Github-Trending-Repo-App
+  - download zip file from - https://github.com/DipeshSingh1772/Github-Trending-Repo-App or clone it.
   - open project in android studio
   - build/run
   
