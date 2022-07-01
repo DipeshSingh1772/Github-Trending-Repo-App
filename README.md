@@ -40,5 +40,6 @@ application is developed with MVVM architecture and have both online and offline
   - Profile: https://www.linkedin.com/in/dipesh-pratap-singh/
 
 # Demo Video
-https://github.com/DipeshSingh1772/Github-Trending-Repo-App/blob/main/Untitled.mp4
+https://user-images.githubusercontent.com/70167351/176822358-da9d4f63-1df5-4841-84e9-e393f2573fd3.mp4
+
 
